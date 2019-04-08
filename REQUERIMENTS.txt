@@ -1,0 +1,4 @@
+python-magic
+argparse
+pefile
+libmagic
