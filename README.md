@@ -32,7 +32,7 @@ sudo python anubis.py --file ../MUESTRAS/ransomware.exe
 ![Alt text](galeria/analis_9.png "Analisis 9")
 ![Alt text](galeria/analis_10.png "Analisis 10")
 
-Puedes colaborar a que siga creando nuevas herramientas con una donación en [Paypal](https://www.paypal.com) a paypal.me/exploitwriter
+Puedes colaborar a que siga creando nuevas herramientas con una donación en [Paypal](https://www.paypal.me/exploitwriter) a paypal.me/exploitwriter
 by [@sasaga92](https://twitter.com/sasaga92)
 
 
