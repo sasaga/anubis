@@ -1,4 +1,4 @@
-# bruteSSH
+# ANUBIS
 
 Anubis es un software construido completamente en python el cual te permite realizar un análisis estático de forma rápida para analizar ejecutables en Windows. 
 
